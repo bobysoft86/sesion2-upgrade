@@ -1,0 +1,73 @@
+.issuuLogo{
+    width: 80px;
+}
+
+.header > .signIn{
+position: absolute;
+left: 89%;
+top: 1px;
+}
+.signIn > p{
+margin: 0px;
+}
+.logoGoogle{
+    width: 150px;
+}
+.logoInsta{
+    position: absolute;
+left: 26%;
+top: 80px;
+    width: 150px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+hr {
+    height: 1px;
+    background-image: radial-gradient(circle at 120.71% 50%, #dcb744 0, #e5af41 5.56%, #eea740 11.11%, #f59c40 16.67%, #fa9141 22.22%, #ff8444 27.78%, #ff7547 33.33%, #ff644c 38.89%, #ff5152 44.44%, #ff3858 50%, #fb1160 55.56%, #f50069 61.11%, #ed0075 66.67%, #e40082 72.22%, #d80090 77.78%, #ca009f 83.33%, #b800ae 88.89%, #a300bd 94.44%, #8912cb 100%);
+}
+
+.pulsador {
+    margin-top: 16px;
+    display: inline-block;
+    padding: 10px 20px;
+    background-image: radial-gradient(circle at 81.38% 87.4%, #ffb500 0, #ffa41e 8.33%, #ff9234 16.67%, #ff7d42 25%, #ff674d 33.33%, #ff5055 41.67%, #ff3858 50%, #e41f59 58.33%, #cc025b 66.67%, #b6005d 75%, #a3005f 83.33%, #910063 91.67%, #820067 100%);/* Color de fondo */
+    color: white; 
+    border: 2px dotted #485949; 
+    border-radius: 20px; 
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  .contenedor-password input[type="password"] {
+    padding: 10px;
+    width: 100%;
+  }
+
+  .contenedor-password input[type="checkbox"] {
+    display: none;
+  }
+
+  .contenedor-password label {
+    cursor: pointer;
+    background: none;
+    border: none;
+    padding: 5px;
+    outline: none;
+    display: inline-block;
+    margin-top: 5px;
+    background-color: grey;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+ 
